@@ -1,0 +1,276 @@
+[{
+  "level": "1",
+  "board": "1",
+  "state": "WWWWWWW|WS.B.SW|W.BPB.W|WS.B.SW|WWWWWWW"
+},
+  {
+    "level": "1",
+    "board": "2",
+    "state": "WWWWWWWW|W..SSB.W|W.BP.B.W|W.BSS..W|WWWWWWWW"
+  },
+  {
+    "level": "1",
+    "board": "3",
+    "state": "NWWWWWWW|NW.....W|WW.SBS.W|WP.B.B.W|W..SBS.W|WW.....W|NWWWWWWW"
+  },
+  {
+    "level": "1",
+    "board": "4",
+    "state": "NWWWWWNN|WW...WWW|W..W...W|W.W..W.W|W.B.BW.W|WSW....W|WS.PWWWW|WWWWWNNN"
+  },
+  {
+    "level": "1",
+    "board": "5",
+    "state": "WWWWWWWW|W.BS.BSW|WPSB.BSW|W.BS.BSW|W.SB.BSW|WWWWWWWW"
+  },
+  {
+    "level": "1",
+    "board": "6",
+    "state": "NNNWWWWWWW|NNWW..W.PW|NNW...W..W|NNWB.B.B.W|NNW.BWW..W|WWW.B.W.WW|WSSSSS..WN|WWWWWWWWWN"
+  },
+  {
+    "level": "1",
+    "board": "7",
+    "state": "WWWWWWWWW|W...*...W|W.BSWSB.W|W..BSB..W|WWWSBSWWW|NNWWPWWNN|NNNWWWNNN"
+  },
+  {
+    "level": "1",
+    "board": "8",
+    "state": "NNWWWWW|WWW...W|WP.SBSW|W..B.BW|WWWSBSW|NNW...W|NNWWWWW"
+  },
+  {
+    "level": "1",
+    "board": "9",
+    "state": "NNWWWWNNNN|NNW..WNNNN|WWW..WWWWW|W..SSB...W|WPBSS.B..W|WWW.BWWWWW|NNW..WNNNN|NNWWWWNNNN"
+  },
+  {
+    "level": "1",
+    "board": "10",
+    "state": "NWWWWWWWWW|WW.......W|W...WBWB.W|W.BB..SBSW|W.PWWWSSSW|WWWW.WWWWW"
+  },
+  {
+    "level": "1",
+    "board": "11",
+    "state": "NWWWWWWWWWWN|WW...WP...WW|W.B.SSSSB..W|W..BWWWW.B.W|W...W..W..WW|WWWWWNNWWWWN"
+  },
+  {
+    "level": "2",
+    "board": "1",
+    "state": "WWWWWWWWN|W....P.WN|W.BSS..WW|WWWSSW..W|NNWWBBB.W|NNNW....W|NNNWWWWWW"
+  },
+  {
+    "level": "2",
+    "board": "2",
+    "state": "WWWWWWWW|W...P..W|W.BBW..W|WW..B.WW|NWSB..WN|NWWS.WWN|NNWSSWNN|NNWWWWNN"
+  },
+  {
+    "level": "2",
+    "board": "3",
+    "state": "NWWWWWWN|NWS.SSWN|NWS.BSWN|WWW..BWW|W.B..B.W|W.WBWW.W|W...P..W|WWWWWWWW"
+  },
+  {
+    "level": "2",
+    "board": "4",
+    "note":".(2-D).may.be.incorrect.(middlepiece)",
+    "state": "NWWWWWW|WW.S.PW|W.B.B.W|WS.*.SW|W.B.B.W|WW.S.WW|NWWWWWN"
+  },
+  {
+    "level": "2",
+    "board": "5",
+    "state": "NNWWWWWW|NNW....W|WWWBBB.W|WP.BSS.W|W.BSSSWW|WWWW..WN|NNNWWWWN"
+  },
+  {
+    "level": "2",
+    "board": "6",
+    "state": "WWWWWWWWWWWW|W....SSS.B.W|W.BBB***.BPW|W....SSS.B.W|WWWWWWWWWWWW"
+  },
+  {
+    "level": "2",
+    "board": "7",
+    "state": "WWWWWWWW|W..W...W|W.BSSB.W|WPBS*.WW|W.BSSB.W|W..W...W|WWWWWWWW"
+  },
+  {
+    "level": "2",
+    "board": "8",
+    "state": "NNWWWWWNNNN|NNW...WNNNN|WWWBSBWWWWW|W...S.B...W|W.WWBWW.P.W|W...S.WWWWW|WWW.S.WNNNN|NNW...WNNNN|NNWWWWWNNNN"
+  },
+  {
+    "level": "2",
+    "board": "9",
+    "state": "NNNWWWWWWWW|WWWW....S.W|W..B.B.BS.W|W..SWWWWSWW|W.BSB.B.PWN|W..S..WWWWN|WWWWWWWNNNN"
+  },
+  {
+    "level": "2",
+    "board": "10",
+    "state": "NWWWWWNN|NW...WWW|WWBWP.SW|W..BBWSW|W.WB..SW|W.....SW|WWWWWWWW"
+  },
+  {
+    "level": "2",
+    "board": "11",
+    "state": "NNNWWWWWN|WWWWS..WW|W.BSBS..W|WPBW.WB.W|W.BS.S..W|WWWWBWB.W|NNWS.S..W|NNWWWWWWW"
+  },
+  {
+    "level": "3",
+    "board": "1",
+    "state": "WWWWWWWWWWW|W....S...PW|W..*.B.*..W|WWW.WWW.WWW|W..*.B.*..W|W....S....W|WWWWWWWWWWW"
+  },
+  {
+    "level": "3",
+    "board": "2",
+    "state": "NWWWWWWN|WW....WW|W.B.BB.W|WSSSSSSW|W.BB.B.W|WWW.PWWW|NNWWWWNN"
+  },
+  {
+    "level": "3",
+    "board": "3",
+    "state": "WWWWWWW|WS.S.SW|W.BBB.W|WSBPBSW|W.BBB.W|WS.S.SW|WWWWWWW"
+  },
+  {
+    "level": "3",
+    "board": "4",
+    "state": "NWWWWWNNN|NW...WWWN|NW.W.B.WN|WWBS.S.WN|W...W.WWW|W.WS.SB.W|W..B.W..W|WWWW.P.WW|NNNWWWWWN"
+  },
+  {
+    "level": "3",
+    "board": "5",
+    "state": "NNNNNWWWWWWWN|WWWWWW...WPWW|W.*.S.*..**.W|W...W...W...W|WW*...*.WBW.W|NW..WWWWW...W|NWWWWNNNWWWWW"
+  },
+  {
+    "level": "3",
+    "board": "6",
+    "state": "WWWWWWWWW|W...*...W|W.B.SB..W|WS***SS*W|W.BP*.B.W|W...*...W|WWWWWWWWW"
+  },
+  {
+    "level": "3",
+    "board": "7",
+    "state": "NNNNNWWWWW|NWWWWW...W|NW.SS.BW.W|NW.WS*...W|WW.*SWB.WW|W.B..B..WN|W...WW.PWN|WWWWWWWWWN"
+  },
+  {
+    "level": "3",
+    "board": "8",
+    "state": "NNNNNNWWWW|WWWWWWW..W|W.B.B.B..W|W.SSSSSSPW|W..B.B.B.W|W..WWWWWWW|WWWWNNNNNN"
+  },
+  {
+    "level": "3",
+    "board": "9",
+    "state": "NNWWWWNNNNNN|WWW..WWNNNNN|W...S.WWWWWW|W.B.**SW...W|WW..SW...BPW|NWWW...WWWWW|NNNWWWWWNNNN"
+  },
+  {
+    "level": "3",
+    "board": "10",
+    "state": "WWWWWWWWWW|W...P....W|W.BBBBBB.W|W........W|WWWW.WWWWW|NNWS..WNNN|NNWS..WNNN|NNWSSSWNNN|NNWS..WNNN|NNWWWWWNNN"
+  },
+  {
+    "level": "3",
+    "board": "11",
+    "state": "NNWWWWWNNN|WWW.P.WWWW|W...W....W|W.BW..BB.W|W.B.BWB..W|WWWBSSSWWW|NNW.SSSSWN|NNWWWWWWWN"
+  },
+  {
+    "level": "4",
+    "board": "1",
+    "state": "NNWWWWWNN|WWW...WWW|W.BSBSB.W|W..S*S.PW|W.BSBSB.W|WWW...WWW|NNWWWWWNN"
+  },
+  {
+    "level": "4",
+    "board": "2",
+    "state": "NWWWWWWWN|NW..S.PWN|WWBBSBBWW|W.SS*SS.W|W.BBSBB.W|W...S...W|WWWWWWWWW"
+  },
+  {
+    "level": "4",
+    "board": "3",
+    "state": "WWWWWNNNN|W...WNNNN|W.BBWWWWW|W.BSSSB.W|W.BSSSB.W|W..SSSB.W|WWWWWBB.W|NNNNW.P.W|NNNNWWWWW"
+  },
+  {
+    "level": "4",
+    "board": "4",
+    "state": "NNNNWWWWWNNNN|WWWWW...WNNNN|W...SBSBWWWWW|WPB.*.*.BSB.W|WWWWW.S..S..W|NNNNW...WWWWW|NNNNWWWWWNNNN"
+  },
+  {
+    "level": "4",
+    "board": "5",
+    "state": "NNNWWWWWWWWW|NNNW...W...W|NNNW.......W|WWWWW*WWW.WW|W...SSS...WN|W.W.W*WWWBWW|W.B....B...W|WWWWWP.W...W|NNNNWWWWWWWW"
+  },
+  {
+    "level": "4",
+    "board": "6",
+    "state": "WWWWWWN|W....WW|WBB*..W|WSSPSSW|W..*BBW|WW....W|NWWWWWW"
+  },
+  {
+    "level": "4",
+    "board": "7",
+    "state": "WWWWWNNNNN|W...WWWWWW|W.B.SS.B.W|WWB.SSBBPW|NW..SS.B.W|NWWWWWWWWW"
+  },
+  {
+    "level": "4",
+    "board": "8",
+    "state": "NNWWWWWNNN|WWW...WWWW|W..*.*.S.W|W.*.*.*..W|W..*.*...W|W.PWWWB.WW|WWWW.W..WN|NNNNNWWWWN"
+  },
+  {
+    "level": "4",
+    "board": "9",
+    "state": "NWWWWWNNN|WW...WWWW|W.SBS.S.W|W.BSBSB.W|W.SBSBSPW|W.BSB.B.W|WW...WWWW|NWWWWWNNN"
+  },
+  {
+    "level": "4",
+    "board": "10",
+    "state": "WWWWWWWNN|W..SB.WWW|W.SBSB..W|W*BSBSP.W|W.SBSB.WW|W..SB..WN|WWWWWWWWN"
+  },
+  {
+    "level": "4",
+    "board": "11",
+    "state": "WWWWW.WWWWWWW|W...WWW..W..W|W.B.....B.P.W|WW.WBWWSWW..W|NW..SSS*S.B.W|NW.BW.WSW.W.W|NWW....B....W|NNW..WWWWWWWW|NNWWWWNNNNNNN"
+  },
+  {
+    "level": "5",
+    "board": "1",
+    "state": "NWWWWW.WWWWWN|WW...WWW.S.WW|W.B.B.W.BSB.W|WSSSS*PB.S..W|W.B.B.W.BSB.W|WW...WWW...WW|NWWWWW.WWWWWN"
+  },
+  {
+    "level": "5",
+    "board": "2",
+    "state": "NWWWWWWWWWWW|NW..W..W...W|NW..*..W.W.W|NW..W..W...W|NWB.WS*W..WW|WW..W*SW.BWN|W...W..W..WN|W.W.WP.*..WN|W...W..W..WN|WWWWWWWWWWWN"
+  },
+  {
+    "level": "5",
+    "board": "3",
+    "state": "NNWWWWWNN|WWW.P.WWW|W..B.B..W|W.*S*S*.W|W.SBSBS.W|W.*S*S*.W|W..B.B..W|WWWWWW..W|NNNNNWWWW"
+  },
+  {
+    "level": "5",
+    "board": "4",
+    "state": "NWWWWWWWWWN|NW...W...WN|NW.BBBBB.WN|WW.B.B.B.WN|W.B..P...WN|W.B.WWWW.WW|W..WSSSSS.W|WW..SSSSS.W|NWWWWWWWWWW"
+  },
+  {
+    "level": "5",
+    "board": "5",
+    "state": "NNNWWWWWNNN|NNNW.P.WNNN|NNNW.B.WNNN|NNNWBSBWNNN|NWWWSBSWWNN|WW.SBSBSWWW|W..BSBSB..W|W....S....W|WWWWWWWWWWW"
+  },
+  {
+    "level": "5",
+    "board": "6",
+    "state": "WWWWWWWWWN|W...WW..WN|W.W.B.B.WN|W..*SW..WN|WW.WSPSWWN|WWBWWW*WWW|W........W|W...WW.W.W|WWWWWW...W|NNNNNWWWWW"
+  },
+  {
+    "level": "5",
+    "board": "7",
+    "state": "NWWWWWWWWWNNN|NW...WW..WWWW|NW.B........W|NWWBWWW.WW..W|NW..WW.*.W.WW|NW.BSSSSSS.WN|WW.WWW.S.W.WN|W.....BWWWBWN|W...W....BPWN|WWWWWBW.WWWWN|NNNNW...WNNNN|NNNWWWWWNNNNN"
+  },
+  {
+    "level": "5",
+    "board": "8",
+    "state": "WWWWWWWWWNN|W.......WNN|W..B.B.BWNN|WW.WBWW.WNN|NW.SS.SSWWN|NWWSS.SS.WN|NNW.WWBW.WW|NNWB.B.B..W|NNW......PW|NNWWWWWWWWW"
+  },
+  {
+    "level": "5",
+    "board": "9",
+    "state": "WWWWWWWNNNN|W.PW..WWWWW|W.BB..B...W|W..WSWWBW.W|WWBWSSS...W|WW.SSSWWBWW|W..WWSWW..W|W..B..B...W|W..W...W..W|WWWWWWWWWWW"
+  },
+  {
+    "level": "5",
+    "board": "10",
+    "state": "NNNNNWWWWNNNN|WWWWWW..WWWWW|WPB....B..B.W|WBWWW.B.W.W.W|W..W..W.B...W|W.BW....W.WWW|W..B.WBW...WN|WSSSSSSSSS.WN|WWWWWWWW...WN|NNNNNNNWWWWWN"
+  },
+  {
+    "level": "5",
+    "board": "11",
+    "state": "NNNWWWWWNNNN|NNNW...WNNNN|WWWW.*.WWWWW|W....*.B...W|WPBS****S*SW|W....*.B...W|WWWW.*.WWWWW|NNNW...WNNNN|NNWWWWWNNNN"
+  }]
