@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>sokoban-wasm example</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <script src="./index.js"></script>
+    <table>
+      <tr>
+        <td>
+          <label for="levelSelect">Select Level:</label>
+          <select name="levelSelect" id="levelSelect">
+            <option value="1" selected>1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+            <option value="5">5</option>
+          </select>
+        </td>
+        <td>
+          <label for="boardSelect">Choose a board:</label>
+          <select name="boardSelect" id="boardSelect">
+            <option value="1" selected>1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+            <option value="5">5</option>
+            <option value="6">6</option>
+            <option value="7">7</option>
+            <option value="8">8</option>
+            <option value="9">9</option>
+            <option value="10">10</option>
+            <option value="11">11</option>
+          </select>
+        </td>
+        <td><button type="button" id='resetBoard'>Restart</button></td>
+      </tr>
+    </table>
+    <table wdith=100%>
+      <tr><th width=100%>Orginal</th>
+      <tr>
+        <td><div id="board"></div></td>
+    </table>
+    <div id=output></div>
+  </body>
+</html>
