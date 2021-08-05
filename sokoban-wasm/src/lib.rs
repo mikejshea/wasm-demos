@@ -33,7 +33,7 @@ pub extern fn c_move(board: *mut c_char, direction: *mut c_char) -> *mut c_char 
     let org_board: Vec<u8> = unsafe { CStr::from_ptr(board).to_bytes().to_vec() };
     let move_dir: Vec<u8> = unsafe { CStr::from_ptr(direction).to_bytes().to_vec() };
 
-    let mut new_board: String = move_player(
+    let mut new_board: String = sokoban::move_player(
         str::from_utf8(&org_board).unwrap(),
         str::from_utf8(&move_dir).unwrap());
 
@@ -44,9 +44,18 @@ pub extern fn c_move(board: *mut c_char, direction: *mut c_char) -> *mut c_char 
 }
 
 #[no_mangle]
-pub extern fn c_win_state(board: *mut c_char) -> bool {
+pub extern fn c_win_state(board: *mut c_char) -> *mut c_char {
     let org_board: Vec<u8> = unsafe { CStr::from_ptr(board).to_bytes().to_vec() };
-    return win_state(str::from_utf8(&org_board).unwrap());
+    let mut result: String = if sokoban::win_state(str::from_utf8(&org_board).unwrap()) {
+        "win"
+    } else {
+        "keep playing"
+    }.to_string();
+
+    unsafe {
+        let output: Vec<u8> = result.as_mut_vec().iter().map(|c| *c as u8).collect::<Vec<_>>();
+        CString::from_vec_unchecked(output)
+    }.into_raw()
 }
 
 #[no_mangle]

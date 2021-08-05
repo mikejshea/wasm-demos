@@ -158,14 +158,12 @@ mod misc_tests {
 
     #[test]
     fn find_not_won_state() {
-        let player: Player = Player { coord: Coord { col: 3, row: 2 }, on_spot: true };
-        assert_eq!(find_player("WWWWWWW|WS.B.SW|W.BYB.W|WS.B.SW|WWWWWWW"), player);
+        assert_eq!(win_state("WWWWWWW|WS.B.SW|W.BYB.W|WS.B.SW|WWWWWWW"), false);
     }
 
     #[test]
     fn find_winning_state() {
-        let player: Player = Player { coord: Coord { col: 3, row: 2 }, on_spot: true };
-        assert_eq!(find_player("WWWWWWW|WS...SW|W..Y..W|WS...SW|WWWWWWW"), player);
+        assert_eq!(win_state("WWWWWWW|WS...SW|W..Y..W|WS...SW|WWWWWWW"), true);
     }
 }
 
